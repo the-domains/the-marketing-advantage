@@ -1,7 +1,7 @@
 name: The Marketing Advantage
 favicon: null
 layout_spectrum: 0.7116761468350887
-typography_spectrum: 0.623142009600997
+typography_spectrum: 0.46257
 title: Innovative Small Business Marketing Solutions
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#ffffff'
+    - '#003e63'
+    - '#6ec574'
+    - '#00acde'
+    - '#f5b963'
   brandStrength: 1
   lightness: 0.5
   saturation: 0
