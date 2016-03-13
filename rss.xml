@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Marketing Advantage]]></title>
-        <description><![CDATA[The Marketing Advantage]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Innovative Small Business Marketing Solutions]]></title>
+        <description><![CDATA[Innovative Small Business Marketing Solutions]]></description>
+        <link>https://thegrid.ai/the-marketing-advantage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 17:10:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 03:16:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-marketing-advantage/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4f77544-0c54-40be-a943-740aff9f3e7d.jpg">]]></description>
+            <link>https://thegrid.ai/the-marketing-advantage/345ce02e-4b8c-4a38-b4f7-a9fa09e49703/index.html</link>
+            <guid isPermaLink="false">345ce02e-4b8c-4a38-b4f7-a9fa09e49703</guid>
+            <pubDate>Sun, 13 Mar 2016 03:15:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7c3ec56-801c-4abc-9991-00034d707975.jpg">]]></description>
-            <link>undefinedf841df39-e97d-41c6-93a3-784d88e6a86a/index.html</link>
+            <link>https://thegrid.ai/the-marketing-advantage/f841df39-e97d-41c6-93a3-784d88e6a86a/index.html</link>
             <guid isPermaLink="false">f841df39-e97d-41c6-93a3-784d88e6a86a</guid>
             <pubDate>Thu, 07 Jan 2016 17:10:03 GMT</pubDate>
         </item>
